@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'project';
+    src: url('../font/Lato-BolIta.ttf');
+}
+@font-face {
+    font-family: 'text';
+    src: url('../font/PTF55F.ttf');
+}
+@font-face {
+    font-family: 'text2';
+    src: url('../font/JosefinSlab-Bold.ttf');
+}
+@font-face {
+    font-family: 'text3';
+    src: url('../font/RobotoSlab-Bold.ttf');
+}
