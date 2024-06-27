@@ -3,7 +3,7 @@
 👩‍💻😎 [Watch Demo](https://fatememohamadian.github.io/Sticky-Scroll-Nav/)
 
 
-![1](https://github.com/fatemeMohamadian/Sticky-Scroll-Nav/assets/155579918/828ebad3-14ce-42bb-9b88-374f261a9a05)
+![1](https://github.com/fatemeMohamadian/Sticky-Scroll-Nav/assets/155579918/19a718ad-4f19-4a45-9dfc-7f58c2eba5ce)
 
                                                           😎😉 
                                                  
